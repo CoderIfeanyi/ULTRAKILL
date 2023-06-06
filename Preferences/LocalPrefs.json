@@ -1,0 +1,19 @@
+{
+  "colorPalette": false,
+  "vSync": true,
+  "simpleNailPhysics": true,
+  "bloodStainChance": 0.5,
+  "cyberGrind.customGrid_0": "ebalo-red.png",
+  "cyberGrind.customGrid_1": "ebalo-green.png",
+  "cyberGrind.customGrid_2": "ebalo-blue.png",
+  "cyberGrind.customGlow_2": "ebalo-blue.png",
+  "cyberGrind.customGlow_1": "ebalo-green.png",
+  "cyberGrind.customGlow_0": "ebalo-red.png",
+  "cyberGrind.customSkybox": "Vvizard\\Skyboxes\\New Blood final export finally a final final_SKYBOX.png",
+  "cyberGrind.glowIntensity": 10.0,
+  "fullscreen": false,
+  "simpleExplosions": true,
+  "simpleSpawns": true,
+  "simpleFire": true,
+  "bloodEnabled": false
+}
